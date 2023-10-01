@@ -5,65 +5,7 @@ Lavish HTML CSS Template
 https://templatemo.com/tm-458-lavish
 		
 */
-/* Styles for small screens (up to 600px) */
-@media (max-width: 600px) {
-    .home {
-        background: url('../images/home-bg.jpg');
-        background-size: cover;
-        object-fit: cover;
-        background-position: center center;
-        background-attachment: fixed;
-        -webkit-background-size:cover;
-        -moz-background-size:cover;
-        -o-background-size:cover;
-        background-repeat: no-repeat;
-        padding-top: 120px;
-        padding-bottom: 140px;
-        text-align: center;
-        opacity: 0.5;
-        justify-content: center;
-    }
-  }
-  
-  /* Styles for medium screens (601px to 900px) */
-  @media (min-width: 601px) and (max-width: 900px) {
-    .home {
-        background: url('../images/home-bg.jpg');
-        background-size: cover;
-        object-fit: cover;
-        background-position: center center;
-        background-attachment: fixed;
-        -webkit-background-size:cover;
-        -moz-background-size:cover;
-        -o-background-size:cover;
-        background-repeat: no-repeat;
-        padding-top: 120px;
-        padding-bottom: 140px;
-        text-align: center;
-        opacity: 0.5;
-        justify-content: center;
-    }
-  }
-  
-  /* Styles for large screens (901px and above) */
-  @media (min-width: 901px) {
-    .home {
-        background: url('../images/home-bg.jpg');
-        background-size: cover;
-        object-fit: cover;
-        background-position: center center;
-        background-attachment: fixed;
-        -webkit-background-size:cover;
-        -moz-background-size:cover;
-        -o-background-size:cover;
-        background-repeat: no-repeat;
-        padding-top: 120px;
-        padding-bottom: 140px;
-        text-align: center;
-        opacity: 0.5;
-        justify-content: center;
-    }
-  }
+
 body
 {
 	background: #000000;

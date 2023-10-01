@@ -1656,6 +1656,85 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
+
+ .resume {
+	padding: 0 20px;
+	border: 2px solid #D43F52;
+    color: #ffffff;
+	border-radius: 5px 50px;
+	padding-top: 4rem;
+	padding-bottom: 12rem;
+	background: #151515 url(../images/orange_hexagons.png) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
+@media only screen and (max-width:1024px) {
+	.resume {
+		padding: 0 18px;
+		border: 2px solid #D43F52;
+    color: #ffffff;
+	border-radius: 5px 50px;
+	padding-top: 4rem;
+	padding-bottom: 12rem;
+	background: #151515 url(../images/orange_hexagons.png) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	
+	}
+}
+@media only screen and (max-width:768px) {
+	.resume {
+		padding: 0 15px;
+		border: 2px solid #D43F52;
+    color: #ffffff;
+	border-radius: 5px 50px;
+	padding-top: 4rem;
+	padding-bottom: 12rem;
+	background: #151515 url(../images/orange_hexagons.png) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	
+	}
+}
+@media only screen and (max-width:600px) {
+	.resume {
+		padding: 0 10px;
+		border: 2px solid #D43F52;
+    color: #ffffff;
+	border-radius: 5px 50px;
+	padding-top: 4rem;
+	padding-bottom: 12rem;
+	background: #151515 url(../images/orange_hexagons.png) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	
+	}
+}
+@media only screen and (max-width:400px) {
+	.resume {
+		padding: 0;
+		border: 2px solid #D43F52;
+    color: #ffffff;
+	border-radius: 5px 50px;
+	padding-top: 4rem;
+	padding-bottom: 12rem;
+	background: #151515 url(../images/orange_hexagons.png) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	
+	}
+}
 #resume {
 	
 	border: 2px solid #D43F52;
